@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: cc3c07c9669c55e4aa97a0f032ccbb09
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BluePiecePrefab: {instanceID: 0}
+  - RedPiecePrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
